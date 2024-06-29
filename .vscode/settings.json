@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "expected": "cpp",
+        "optional": "cpp",
+        "format": "cpp",
+        "system_error": "cpp",
+        "regex": "cpp",
+        "ostream": "cpp"
+    }
+}
